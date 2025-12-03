@@ -1,0 +1,1 @@
+print("Hoàng khó hiểu hơn con gái")
